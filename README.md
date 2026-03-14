@@ -53,7 +53,7 @@ All posts are saved as **drafts only** — nothing is ever auto-published. You a
 Open Terminal and run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/wpdraft-claude-skill.git
+git clone https://github.com/rohitchavane/wpdraft-claude-skill.git
 cd wpdraft-claude-skill
 ```
 
