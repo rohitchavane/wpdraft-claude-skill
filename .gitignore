@@ -1,0 +1,18 @@
+# Credentials — never commit your real config
+config.json
+
+# Personal document files
+*.docx
+*.doc
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Local Claude Code settings
+.claude/settings.local.json
