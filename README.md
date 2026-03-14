@@ -4,6 +4,8 @@ A Claude Code slash command that publishes blog content to your WordPress site a
 
 Supports Google Docs URLs, PDF/DOCX files, and AI-written text. Images, headings, links, tables, and video embeds are all preserved automatically.
 
+> **Note:** This requires the **Claude Code CLI** (the terminal app) — it does not work on the claude.ai website. [Install Claude Code here.](https://claude.ai/code)
+
 ---
 
 ## A little backstory
